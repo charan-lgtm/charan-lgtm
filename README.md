@@ -75,7 +75,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <table>
+
 <tr>
 
 <td width="50%">
@@ -123,22 +126,30 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 🔗 <a href="https://ai-text-summarizer-6mrk.onrender.com">Live Demo</a><br>
 💻 <a href="https://github.com/charan-lgtm/AI-Text-Summarizer.git">Repository</a>
 
-🚧 Coming Soon
-
 </td>
+
+</tr>
+
+<tr>
+
 <td width="50%">
 
 ### ✨ Async AI Chat App
 
-🤖 An Async AI Chat App is a messaging platform where users and AI communicate asynchronously
+🤖 Async AI-powered chat application for intelligent conversations.
 
 🚧 Coming Soon
 
 </td>
 
-</tr>
-</table>
+<td width="50%">
 
+<!-- Empty cell to keep layout balanced -->
+</td>
+
+</tr>
+
+</table>
 ---
 
 ## 📊 GitHub Stats
