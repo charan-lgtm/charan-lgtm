@@ -120,6 +120,18 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ✨ AI application that converts long text into short meaningful summaries.
 
+🔗 <a href="https://ai-text-summarizer-6mrk.onrender.com">Live Demo</a><br>
+💻 <a href="https://github.com/charan-lgtm/AI-Text-Summarizer.git">Repository</a>
+
+🚧 Coming Soon
+
+</td>
+<td width="50%">
+
+### ✨ Async AI Chat App
+
+🤖 An Async AI Chat App is a messaging platform where users and AI communicate asynchronously
+
 🚧 Coming Soon
 
 </td>
