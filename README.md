@@ -75,7 +75,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
+
 
 <table>
 
@@ -150,7 +150,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </tr>
 
 </table>
----
+
 
 ## 📊 GitHub Stats
 
