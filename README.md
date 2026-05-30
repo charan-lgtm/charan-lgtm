@@ -138,12 +138,16 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🤖 Async AI-powered chat application for intelligent conversations.
 
-🚧 Coming Soon
+
+🔗 <a href="https://ai-async-chat.onrender.com">Live Demo</a><br>
+💻 <a href="https://github.com/charan-lgtm/AI-Async-chat.git">Repository</a>
+
+
 
 </td>
 
 <td width="50%">
-
+🚧 Coming Soon
 <!-- Empty cell to keep layout balanced -->
 </td>
 
