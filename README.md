@@ -152,7 +152,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 🔗 <a href="https://ai-startup-report.onrender.com">Live Demo</a><br>
-💻 <a href="https://github.com/charan-lgtm/AI-Async-chat.git">Repository</a>
+💻 <a href="https://github.com/charan-lgtm/AI-StartUp-Report.git">Repository</a>
 
 
 
