@@ -146,6 +146,21 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 </td>
 
+### 🎉  AI Startup Builder
+
+🤖 ⚡ Built a multi-agent AI ecosystem where CEO, Product Manager, Developer, and Marketing agents collaborate to create end-to-end startup plans automatically.
+
+
+🔗 <a href="https://ai-startup-report.onrender.com">Live Demo</a><br>
+💻 <a href="https://github.com/charan-lgtm/AI-Async-chat.git">Repository</a>
+
+
+
+</td>
+</tr>
+
+<tr>
+
 <td width="50%">
 🚧 Coming Soon
 <!-- Empty cell to keep layout balanced -->
