@@ -147,7 +147,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🚀 AI Startup Builder
 
-🤖 Multi-agent AI platform where CEO, Product Manager, Developer, and Marketing agents collaborate to transform startup ideas into complete business plans, product roadmaps, technical architectures, and marketing strategies.
+🤖 Multi-agent AI platform that transforms startup ideas into complete business plans and execution strategies.
 
 🔗 <a href="https://ai-startup-report.onrender.com">Live Demo</a><br>
 💻 <a href="https://github.com/charan-lgtm/AI-StartUp-Report.git">Repository</a>
