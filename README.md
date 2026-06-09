@@ -138,36 +138,37 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🤖 Async AI-powered chat application for intelligent conversations.
 
-
 🔗 <a href="https://ai-async-chat.onrender.com">Live Demo</a><br>
 💻 <a href="https://github.com/charan-lgtm/AI-Async-chat.git">Repository</a>
 
-
-
 </td>
 
-### 🎉  AI Startup Builder
+<td width="50%">
 
-🤖 ⚡ Built a multi-agent AI ecosystem where CEO, Product Manager, Developer, and Marketing agents collaborate to create end-to-end startup plans automatically.
+### 🚀 AI Startup Builder
 
+🤖 Multi-agent AI platform where CEO, Product Manager, Developer, and Marketing agents collaborate to transform startup ideas into complete business plans, product roadmaps, technical architectures, and marketing strategies.
 
 🔗 <a href="https://ai-startup-report.onrender.com">Live Demo</a><br>
 💻 <a href="https://github.com/charan-lgtm/AI-StartUp-Report.git">Repository</a>
 
-
-
 </td>
+
 </tr>
 
 <tr>
 
 <td width="50%">
+
 🚧 Coming Soon
+
+</td>
+
+<td width="50%">
 <!-- Empty cell to keep layout balanced -->
 </td>
 
 </tr>
-
 </table>
 
 
